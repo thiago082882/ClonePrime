@@ -58,6 +58,7 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - Firebase (Realtime e Storage)
 - Constraintlayout, framelayout e linearlayout
 - JSON
+- Binding
 
 
 
