@@ -34,31 +34,11 @@
 
 ## 📖 Sobre
 
-A proposta do projeto é a replica do famoso aplicativo IFOOD, que funciona realizando compras e entregas de alimentos entre diversos usuários ao mesmo tempo.
-O aplicativo é capaz de realizar cadastro do usuário, editar perfil, cadastrar endereços, publicar anuncios em diversas categorias, favoritar anúncios de outros usuários e entrar em contato por ligação, selecionar forma de pagamento e entrega. Tambem é possivel recuperar a conta enviando um e-mail para o usuário cadastrado.
+A proposta do projeto foi criar um clone do aplicativo prime Video, onde nele foi criado o JSON de filmes de várias categoria...
 
 
 Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de aprimorar os conhecimentos em desenvolvimento de android nativo.
 
----
-
-## :lock_with_ink_pen: Validações da conta
-
-Cadastro:
-E-mail na forma inválida (Insira um e-mail válido)
-E-mail já está sendo utilizado (Este e-mail já esta em uso)
-Senha fraca (Insira uma senha mais forte)
-
-Login:
-E-mail na forma inválida (Insira um e-mail válido)
-E-mail não cadastrado (Nenhuma conta encontrada com esete e-mail)
-E-mail inválido (Senha inválida, tente novamente)
-
-Esqueceu a senha
-E-mail com formato inválido (Insira um e-mail válido)
-E-mail não cadastrado (Nenhuma conta encontrada com este e-mail)
-
----
 
 ## 🚀 Ferramentas utilizadas
 
@@ -70,26 +50,15 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - Intents
 - Bundle
 - Navegação e dados entre Activities
-- Navegação e dados entre Fragments
 - CardView
 - Lógica de Programação
 - Pogramação Orientada a Objetos
-- Alert Dialog
 - RecyclerView
 - Banco de Dados
 - Firebase (Realtime e Storage)
-- Sqlite
-- Swipe
 - Constraintlayout, framelayout e linearlayout
-- Picasso
-- Bottom Sheet
-- Bottom Navigation
-- Custom Toolbar
-- Mask
-- ViewPager
-- Tablayout
-- TedPermission
--
+- JSON
+
 
 
 ---
@@ -98,12 +67,11 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 
 O projeto foi desenvolvido utilizando as seguintes bibliotecas:
 
-- https://github.com/santalu/maskara (mascara de números)
-- https://github.com/BlacKCaT27/CurrencyEditText (mascara de valores)
-- https://github.com/ParkSangGwon/TedPermission (utilizacão de galeria/camera)
-- https://github.com/square/picasso (utilização de imagens)
-- https://github.com/tsuryo/Swipeable-RecyclerView (Recyclerview com swipe)
-- https://github.com/jd-alexander/LikeButton (Botão de favoritar personalizado)
+- https://github.com/ReactiveX/RxAndroid/releases (RxJava)
+- https://square.github.io/retrofit/ 
+- https://github.com/bumptech/glide (Carregamento mais leve das imagens)
+- https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=pt-br
+
 
 ---
 
