@@ -1,4 +1,4 @@
-# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> Amazon Prime Video 
+# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://www.citypng.com/public/uploads/small/115962957453szs05gvmpzt3wwwlmkf6y7dbz3lhzjavhyjag0okzfccwcdrjtjdnaryodaexkis7ubr7ojdgikgvdg9reszuszrmcpqwb6bmex.png"> Amazon Prime Video Clone
 
 <div align="center">
 </div>
